@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonSocketServer", "PythonSocketServer\PythonSocketServer.pyproj", "{DE32F6E0-3BBC-4B92-8A91-FE29EC5357FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE32F6E0-3BBC-4B92-8A91-FE29EC5357FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE32F6E0-3BBC-4B92-8A91-FE29EC5357FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E841FB6-281C-4E54-BA56-6852B5F52332}
+	EndGlobalSection
+EndGlobal
